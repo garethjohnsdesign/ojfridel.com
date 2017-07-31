@@ -1,9 +1,9 @@
 ---
 title: Curse of Lono — Saturday Night
 date: 2016-11-01 00:00:00 Z
+position: 9
 categories:
 - music
-position: 9
 is-front: false
 image: "/uploads/curse-of-lono-saturday-night.jpg"
 vimeo: 202640096

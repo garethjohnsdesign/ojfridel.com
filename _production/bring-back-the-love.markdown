@@ -5,6 +5,7 @@ image: "/uploads/bring-back-the-love.jpg"
 artist: Hilz
 format: Album
 record-label: Global Phusion Music
-project:
+project: 
 credit: Production / Composition
 ---
+

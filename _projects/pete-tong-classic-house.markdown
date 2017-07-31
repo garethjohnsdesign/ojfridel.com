@@ -1,9 +1,9 @@
 ---
 title: Pete Tong — Classic House
 date: 2016-11-24 00:00:00 Z
+position: 8
 categories:
 - commercial
-position: 8
 is-front: false
 image: "/uploads/pete-tong-classic-house.jpg"
 vimeo: 202384623
