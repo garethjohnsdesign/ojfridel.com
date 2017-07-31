@@ -1,0 +1,23 @@
+- title: Music
+  url: /music/
+  sublinks:
+    - title: Releases
+      url: /releases/
+    - title: Production
+      url: /production/
+    - title: Scoring / Film
+      url: /scoring-film/
+    - title: All
+      url: /all/
+
+- title: Journal
+  url: /journal/
+
+- title: About
+  url: /about/
+  
+- title: Contact
+  url: /contact/
+  
+- title: Images
+  url: /images/

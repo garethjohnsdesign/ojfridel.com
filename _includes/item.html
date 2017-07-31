@@ -1,0 +1,19 @@
+<div class="item">
+		<a href="{{ project.url }}"><img src="{{ project.image }}" alt="{{project.title}}"></a>
+		<div class="item__title text-center" data-aos="fade-in">
+  		<ul class="vertical menu">
+        <li><a href="{{ project.url }}">{{ project.title }}</a</li>
+        {% if project.artist %}
+        <li><a href="{{ project.url }}">{{ project.artist }}</a></li>
+        {% endif %}
+        {% if project.director %}
+        <li><a href="{{ project.url }}">{{ project.director }}</a></li>
+        {% endif %}
+        {% if project.credit %}
+        <li class="excerpt__text__credit"><a href="{{ project.url }}">{{ project.credit }}</a></li>
+        {% endif %}
+        <li><a href="{{ project.url }}">{% if project.record-label %}{{ project.record-label }},{% endif %} {{ project.date | date: "%Y" }}</a></li>
+      </ul>
+		</div>
+
+</div>

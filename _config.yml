@@ -1,0 +1,88 @@
+---
+title: OJ & Fridel
+timezone: UTC
+collections:
+  journal:
+    title: Journal
+    output: true
+  posts:
+    title: Posts
+    output: true
+  production:
+    title: Production
+    output: true
+  releases:
+    title: Releases
+    output: true
+  scoring-film:
+    title: Scoring / Film
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/journal/:title/"
+- scope:
+    path: ''
+    type: production
+  values:
+    layout: project
+- scope:
+    path: ''
+    type: releases
+  values:
+    layout: project
+- scope:
+    path: ''
+    type: scoring-film
+  values:
+    layout: project
+url: http://ojfridel.com
+description: London-based production duo
+permalink: pretty
+exclude:
+- Gemfile
+- Gemfile.lock
+- bower.json
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+colophon: http://garethjohnsdesign.com
+company: OJ & Fridel
+email: info@ojfridel.com
+google_site_verification: ar8dapG_BReh7O3oh14FTaNs7zgQhBFkQdTGlHZrrhE
+analytics: UA-98744238-1
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%d %B %Y"
+future: true
+social:
+  facebook: https://www.facebook.com/ojandfridel
+  instagram: https://www.instagram.com/ojandfridel
+  twitter: https://www.twitter.com/ojandfridel
+  soundcloud: https://soundcloud.com/ojandfridel
+  youtube: https://youtube.com/ojandfridel
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
