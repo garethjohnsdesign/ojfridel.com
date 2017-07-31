@@ -18,6 +18,6 @@ scoring-film-text: Nullam id dolor id nibh ultricies vehicula ut id elit. Donec 
   elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac,
   vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur
   et.
-layout: holding
+layout: home
 ---
 
