@@ -1,5 +1,5 @@
 ---
-title: OJ + Fridel
+title: OJ & Fridel
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/index-hero.jpg"
 about-text: With 15 years of experience in writing, producing and engineering for
@@ -18,6 +18,6 @@ scoring-film-text: Nullam id dolor id nibh ultricies vehicula ut id elit. Donec 
   elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac,
   vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur
   et.
-layout: home
+layout: holding
 ---
 
