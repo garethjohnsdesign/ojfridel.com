@@ -23,23 +23,13 @@ layout: compress
 </div>
 {% endif %}
 
-<!-- Mobile Navigation -->  
-{% include navigation--mobile.html %}
-<!-- End Mobile Navigation --> 
 
 <div class="wrapper">
-  
-{% if page.layout == "home" or page.layout == "project" %}
+
 <!-- Navigation -->
 {% include navigation.html %}
 <!-- End Navigation -->
 <div class="grid-y align-left {{page.layout | slugify}}"  data-aos="fade-in">
-{% else %}
-<div class="grid-y align-left {{page.layout | slugify}}"  data-aos="fade-in">
-<!-- Navigation -->
-{% include navigation.html %}
-<!-- End Navigation -->
-{% endif %}
 
 <div class="grid-x">
 <div class="cell">
@@ -55,6 +45,10 @@ layout: compress
 <!-- Footer -->
 {% include footer.html %}
 <!-- End Footer-->
+
+<!-- Mobile Navigation -->  
+{% include navigation--mobile.html %}
+<!-- End Mobile Navigation --> 
 
 <!-- Scripts -->
 {% include scripts.html %}

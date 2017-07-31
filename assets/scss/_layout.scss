@@ -172,12 +172,11 @@ h2:before {
   }
 }
 
-
 // 6. Navigation
 // ------
 
 .navigation {
-  z-index: 1;
+  z-index: 3;
   padding: 2rem 1rem 1rem 1rem;
   font-family: $header-font-family;
   @include breakpoint(medium) {
@@ -188,14 +187,14 @@ h2:before {
   }
 }
 
-.navigation__hamburger {
-  z-index: 2;
+.navigation__small {
+  z-index: 3;
 }
 
 .navigation--mobile {
   z-index: 1;
   position: fixed;
-  background: $color--white;
+  background: $color--highlight;
   top: 0;
   left: 0;
   height: 100%;
@@ -212,8 +211,22 @@ h2:before {
   }
   
   a {
+    color: $color--white;
    padding: 1rem 0rem;
   }
+  
+  a:hover {
+    color: $color--black;
+  }
+  
+  .menu .active>a {
+    color: black;
+  }
+  
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    background-color: $color--white;
+  }
+  
 }
 
 .navigation--light {
