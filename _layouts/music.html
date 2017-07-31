@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<!-- Releases -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="medium-10 large-8 cell text-center">
+    <h1>Releases</h1>
+	</div>
+</div>
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3 projects__list">
+    {% assign releases = site.releases | reverse %}
+    {% for project in releases %}
+      <div class="cell" data-aos="fade-in">
+      {% include item.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End Releases -->
+
+<!-- Production -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="medium-10 large-8 cell text-center">
+    <h1>Production</h1>
+	</div>
+</div>
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3 projects__list">
+    {% assign productions = site.production | reverse %}
+    {% for project in productions %}
+      <div class="cell" data-aos="fade-in">
+      {% include item.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End Production -->
+
+<!-- Scoring / Film -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="medium-10 large-8 cell text-center">
+    <h1>Scoring / Film</h1>
+	</div>
+</div>
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3 projects__list">
+    {% assign scoring-film = site.scoring-film | reverse %}
+    {% for project in scoring-film %}
+      <div class="cell" data-aos="fade-in">
+      {% include item.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End Scoring / Film -->
+

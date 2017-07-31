@@ -1,0 +1,13 @@
+---
+title: Poté — Ego Surf
+date: 2017-02-10 17:19:00 Z
+categories:
+- music
+position: 1
+is-front: true
+image: "/uploads/pote-ego-surf.jpg"
+vimeo: 202376637
+director: Matthew Walker
+production-company: Kode
+---
+

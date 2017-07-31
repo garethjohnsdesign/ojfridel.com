@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+<!-- Hero -->
+<div class="index__hero-image" style="background-image: url({{page.hero-image}})">
+  <div class="grid-x align-middle align-center" style="height: 100%;">
+    <div class="small-10 cell text-center index__logo" data-aos="fade-in" data-aos-delay="1000">
+      <a href="/about"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a>
+    </div>
+  </div>
+</div>
+<!-- End Hero -->
+
+<!-- About -->
+<div class="grid-container" data-aos="fade-in">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+  	<div class="small-11 medium-10 large-8 cell text-center medium-text-left">
+      <p>{{page.about-text}}</p>
+  	</div>
+  </div>
+</div>
+<!-- End About -->
+
+<!-- Releases -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="medium-10 large-8 cell text-center">
+      <h1>Releases</h1>
+      <a href="/releases" class="anchor-arrow">View All</a>
+	</div>
+</div>
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3 projects__list">
+    {% assign releases = site.releases | reverse %}
+    {% for project in releases limit:6 %}
+      <div class="cell" data-aos="fade-in">
+      {% include item.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End Releases -->
+
+
+<!-- Production -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="medium-10 large-8 cell text-center">
+      <h1>Production</h1>
+      <a href="/production" class="anchor-arrow">View All</a>
+	</div>
+</div>
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3 projects__list">
+    {% assign productions = site.production | reverse %}
+    {% for project in productions limit:6 %}
+      <div class="cell" data-aos="fade-in">
+      {% include item.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End Production -->
+
+<!-- Scoring / Film -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="medium-10 large-8 cell text-center">
+    <h1>Scoring / Film</h1>
+    <a href="/scoring-film" class="anchor-arrow">View All</a>
+	</div>
+</div>
+  
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3 projects__list">
+    {% assign scoring-films = site.scoring-film | reverse %}
+    {% for project in scoring-films limit:6 %}
+      <div class="cell" data-aos="fade-in">
+      {% include item.html %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End Scoring / Film -->
