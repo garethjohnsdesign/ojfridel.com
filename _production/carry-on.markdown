@@ -8,4 +8,6 @@ record-label: eARmusic
 credit: Head Engineers
 ---
 
-https://www.youtube.com/watch?v=PlAyKo-Ks5A
+<div class="responsive-embed  widescreen">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/PlAyKo-Ks5A?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>

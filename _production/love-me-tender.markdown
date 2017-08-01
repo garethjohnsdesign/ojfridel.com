@@ -9,4 +9,6 @@ project: Live Recording
 credit: Head Engineers
 ---
 
-https://www.youtube.com/watch?v=dLvZu8ZMw0Q
+<div class="responsive-embed  widescreen">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/dLvZu8ZMw0Q?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>

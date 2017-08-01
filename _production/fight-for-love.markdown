@@ -9,4 +9,6 @@ project: SBTV Live
 credit: Head Engineers
 ---
 
-https://www.youtube.com/watch?v=6PCyKwSFrwg
+<div class="responsive-embed  widescreen">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/6PCyKwSFrwg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>

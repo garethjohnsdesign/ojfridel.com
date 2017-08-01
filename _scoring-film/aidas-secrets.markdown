@@ -6,6 +6,6 @@ director: Alon Schwarz, Shaul Schwarz
 credit: Production / Composition
 ---
 
-https://soundcloud.com/soho-sonic-studios/sets/aidas-secrets
-
-https://www.youtube.com/watch?v=Tdb_Tp47hIM
+<div class="responsive-embed  widescreen">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Tdb_Tp47hIM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -7,5 +7,3 @@ format: Apple Beats
 record-label: Apple
 credit: Head Engineers
 ---
-
-https://www.youtube.com/watch?v=PlAyKo-Ks5A

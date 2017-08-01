@@ -8,6 +8,6 @@ record-label: CTRL Management
 credit: Production / Composition
 ---
 
-https://soundcloud.com/soho-sonic-studios/lady-lykez-chat-to-your-man/s-JoetK
-
-https://www.youtube.com/watch?v=PQdteMBHBJE
+<div class="responsive-embed  widescreen">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/PQdteMBHBJE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>

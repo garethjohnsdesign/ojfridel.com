@@ -75,6 +75,12 @@
 		"oAP": "\/_includes\/navigation.html",
 		"oF": 0
 		},
+	"\/_includes\/pagination.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/pagination.html",
+		"oF": 0
+		},
 	"\/_includes\/project.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -500,6 +506,16 @@
 		"oA": 2,
 		"oAP": "\/_site\/all\/index.html",
 		"oF": 0
+		},
+	"\/_site\/assets\/css\/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/css\/app-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/_site\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -1057,26 +1073,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/baby.jpg": {
-		"ft": 16384,
-		"iS": 474358,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/baby.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/birds-eye-view.jpg": {
-		"ft": 16384,
-		"iS": 274051,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/birds-eye-view.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_site\/uploads\/bring-back-the-love.jpg": {
 		"ft": 16384,
 		"iS": 184415,
@@ -1087,31 +1083,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/can-i-live.jpg": {
-		"ft": 16384,
-		"iS": 255093,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/can-i-live.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_site\/uploads\/carry-on.jpg": {
 		"ft": 16384,
-		"iS": 130742,
+		"iS": 46332,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/carry-on.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/chains.jpg": {
-		"ft": 16384,
-		"iS": 43885,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/chains.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1122,36 +1098,6 @@
 		"iS": 226291,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/chat-2-your-man.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/chat-to-your-man.jpg": {
-		"ft": 16384,
-		"iS": 532064,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/chat-to-your-man.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/cheating-on-me.jpg": {
-		"ft": 16384,
-		"iS": 772157,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/cheating-on-me.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/cover-test.jpg": {
-		"ft": 16384,
-		"iS": 43520,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/cover-test.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1177,31 +1123,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/green-state-guy.jpg": {
-		"ft": 16384,
-		"iS": 594605,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/green-state-guy.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_site\/uploads\/harmonia.jpg": {
 		"ft": 16384,
 		"iS": 231719,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/harmonia.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/herda.jpg": {
-		"ft": 16384,
-		"iS": 217989,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/herda.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1232,16 +1158,6 @@
 		"iS": 158888,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/index-hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/just-another-day.jpg": {
-		"ft": 16384,
-		"iS": 196120,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/just-another-day.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1347,16 +1263,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/rap-gustavo.jpg": {
-		"ft": 16384,
-		"iS": 260926,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/rap-gustavo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_site\/uploads\/roma-armee.jpg": {
 		"ft": 16384,
 		"iS": 259601,
@@ -1382,16 +1288,6 @@
 		"iS": 79417,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/shh-bang.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/south-of-the-river.jpg": {
-		"ft": 16384,
-		"iS": 35589,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/south-of-the-river.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1477,41 +1373,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/baby.jpg": {
-		"ft": 16384,
-		"iS": 474358,
-		"oA": 0,
-		"oAP": "\/_uploads\/baby.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/birds-eye-view.jpg": {
-		"ft": 16384,
-		"iS": 274051,
-		"oA": 0,
-		"oAP": "\/_uploads\/birds-eye-view.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/bring-back-the-love.jpg": {
 		"ft": 16384,
 		"iS": 184415,
 		"oA": 0,
 		"oAP": "\/_uploads\/bring-back-the-love.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/can-i-live.jpg": {
-		"ft": 16384,
-		"iS": 255093,
-		"oA": 0,
-		"oAP": "\/_uploads\/can-i-live.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1524,17 +1390,7 @@
 		"oAP": "\/_uploads\/carry-on.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/chains.jpg": {
-		"ft": 16384,
-		"iS": 43885,
-		"oA": 0,
-		"oAP": "\/_uploads\/chains.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_uploads\/chat-2-your-man.jpg": {
@@ -1545,36 +1401,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"\/_uploads\/chat-to-your-man.jpg": {
-		"ft": 16384,
-		"iS": 532064,
-		"oA": 0,
-		"oAP": "\/_uploads\/chat-to-your-man.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/cheating-on-me.jpg": {
-		"ft": 16384,
-		"iS": 772157,
-		"oA": 0,
-		"oAP": "\/_uploads\/cheating-on-me.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/cover-test.jpg": {
-		"ft": 16384,
-		"iS": 43520,
-		"oA": 0,
-		"oAP": "\/_uploads\/cover-test.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/feel-my-love.jpg": {
@@ -1597,31 +1423,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/green-state-guy.jpg": {
-		"ft": 16384,
-		"iS": 594605,
-		"oA": 0,
-		"oAP": "\/_uploads\/green-state-guy.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/harmonia.jpg": {
 		"ft": 16384,
 		"iS": 231719,
 		"oA": 0,
 		"oAP": "\/_uploads\/harmonia.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/herda.jpg": {
-		"ft": 16384,
-		"iS": 217989,
-		"oA": 0,
-		"oAP": "\/_uploads\/herda.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1652,16 +1458,6 @@
 		"iS": 158888,
 		"oA": 0,
 		"oAP": "\/_uploads\/index-hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/just-another-day.jpg": {
-		"ft": 16384,
-		"iS": 196120,
-		"oA": 0,
-		"oAP": "\/_uploads\/just-another-day.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1767,16 +1563,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/rap-gustavo.jpg": {
-		"ft": 16384,
-		"iS": 260926,
-		"oA": 0,
-		"oAP": "\/_uploads\/rap-gustavo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/roma-armee.jpg": {
 		"ft": 16384,
 		"iS": 259601,
@@ -1802,16 +1588,6 @@
 		"iS": 79417,
 		"oA": 0,
 		"oAP": "\/_uploads\/shh-bang.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/south-of-the-river.jpg": {
-		"ft": 16384,
-		"iS": 35589,
-		"oA": 0,
-		"oAP": "\/_uploads\/south-of-the-river.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
