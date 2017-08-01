@@ -6,9 +6,15 @@
 //   4. Animations
 //   5. Loading
 //   6. Navigation
-//   7. Projects
-//   8. Project
-//   9. Contact
+//   7. Index
+//   8. Projects
+//   9. Project
+//   10. All
+//   11. Journal
+//   12. About
+//   13. Contact
+//   14. Images
+//   15. Footer
 
 // 1. Mixins
 // ---------
@@ -97,10 +103,8 @@ img {
   flex: 1 0 auto;
 }
 
-
 // 3. Typography
 // -------------
-
 
 a {
   transition: $primary-transition;
@@ -149,7 +153,6 @@ h2:before {
 [data-aos='fade-up'] {
   transform: translate(0, 1rem);
 }
-
 
 // 5. Loading
 // ------
@@ -225,8 +228,7 @@ h2:before {
   
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     background-color: $color--white;
-  }
-  
+  } 
 }
 
 .navigation--light {
@@ -252,8 +254,7 @@ h2:before {
   border: 1px solid transparent;
 }
 
-
-// 4. Index
+// 7. Index
 // ------
 
 .index__hero-image {
@@ -269,12 +270,10 @@ h2:before {
 }
 
 .home h1 {
-  margin-top: 2rem;
-  
+  margin-top: 2rem; 
 }
 
-
-// 7. Projects
+// 8. Projects
 // ----------
 
 .projects__list a {
@@ -293,8 +292,7 @@ h2:before {
   padding-bottom: 1rem;
 }
 
-
-// 8. Project
+// 9. Project
 // ---------
 
 .project__hero-image {
@@ -322,7 +320,6 @@ h2:before {
   height: 100%;
 }
 
-
 .project__credits {
   color: $color--highlight;
 }
@@ -335,7 +332,7 @@ h2:before {
   color: $color--black;
 }
 
-// 4. All
+// 10. All
 // ---------
 
 .all__title {
@@ -343,8 +340,7 @@ h2:before {
  padding-bottom: 1rem;
 }
 
-
-// 4. Journal
+// 11. Journal
 // ---------
 
 .journal__post__date {
@@ -352,9 +348,7 @@ h2:before {
  margin-bottom: 1rem;
 }
 
-
-
-// 9. About
+// 12. About
 // ---------
 
 .about__links ul a:after {
@@ -362,21 +356,19 @@ h2:before {
   margin-left: 0.5rem;
 }
 
-
-// 4. Contact
+// 13. Contact
 // ---------
-
-.contact h2:not(:first-child) {
-  margin-top: 2rem;
-}
 
 .contact a:after {
   content: url(../icons/arrow.svg);
   margin-left: 0.5rem;
 }
 
+.contact h2:not(:first-child) {
+  margin-top: 2rem;
+}
 
-// 4. Images
+// 14. Images
 // ---------
 
 .images__list .item {
