@@ -370,6 +370,11 @@ h2:before {
   margin-top: 2rem;
 }
 
+.contact a:after {
+  content: url(../icons/arrow.svg);
+  margin-left: 0.5rem;
+}
+
 
 // 4. Images
 // ---------
