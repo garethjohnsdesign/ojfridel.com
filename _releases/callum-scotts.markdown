@@ -6,5 +6,6 @@ format: Future Release
 artist: Callum Scott
 project: Future Release
 credit: Production
-record-label:
+record-label: 
 ---
+
