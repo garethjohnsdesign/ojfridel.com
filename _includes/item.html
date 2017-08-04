@@ -6,6 +6,9 @@
         {% if project.artist %}
         <li><a href="{{ project.url }}">{{ project.artist }}</a></li>
         {% endif %}
+        {% if project.project %}
+        <li><a href="{{ project.url }}">{{ project.project }}</a></li>
+        {% endif %}
         {% if project.director %}
         <li><a href="{{ project.url }}">{{ project.director }}</a></li>
         {% endif %}

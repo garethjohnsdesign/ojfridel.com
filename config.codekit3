@@ -273,124 +273,16 @@
 		"oAP": "\/_production\/talkin-the-hardest.markdown",
 		"oF": 0
 		},
-	"\/_projects\/adidas-nmd-trend-watch.markdown": {
+	"\/_releases\/callum-scotts.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_projects\/adidas-nmd-trend-watch.markdown",
+		"oAP": "\/_releases\/callum-scotts.markdown",
 		"oF": 0
 		},
-	"\/_projects\/argos-number-getittoday-tom-daley.markdown": {
+	"\/_releases\/do-it-for-the-lykez.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_projects\/argos-number-getittoday-tom-daley.markdown",
-		"oF": 0
-		},
-	"\/_projects\/black-wolf-short-film.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/black-wolf-short-film.markdown",
-		"oF": 0
-		},
-	"\/_projects\/curse-of-lono-saturday-night.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/curse-of-lono-saturday-night.markdown",
-		"oF": 0
-		},
-	"\/_projects\/dead-enough-enough-enough.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/dead-enough-enough-enough.markdown",
-		"oF": 0
-		},
-	"\/_projects\/donaeo-miami-no-like.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/donaeo-miami-no-like.markdown",
-		"oF": 0
-		},
-	"\/_projects\/g-frsh-hardest-part.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/g-frsh-hardest-part.markdown",
-		"oF": 0
-		},
-	"\/_projects\/marmite-hate-mondays.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/marmite-hate-mondays.markdown",
-		"oF": 0
-		},
-	"\/_projects\/modestep-machines.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/modestep-machines.markdown",
-		"oF": 0
-		},
-	"\/_projects\/pete-tong-classic-house.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/pete-tong-classic-house.markdown",
-		"oF": 0
-		},
-	"\/_projects\/pote-ego-surf.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/pote-ego-surf.markdown",
-		"oF": 0
-		},
-	"\/_projects\/professor-green-back-on-the-market.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/professor-green-back-on-the-market.markdown",
-		"oF": 0
-		},
-	"\/_projects\/salute-launch-video.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/salute-launch-video.markdown",
-		"oF": 0
-		},
-	"\/_projects\/sam-sure-cracks.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/sam-sure-cracks.markdown",
-		"oF": 0
-		},
-	"\/_projects\/sinead-harnett-rather-be-with-you.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/sinead-harnett-rather-be-with-you.markdown",
-		"oF": 0
-		},
-	"\/_projects\/skinny-living-why.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/skinny-living-why.markdown",
-		"oF": 0
-		},
-	"\/_projects\/the-manor-dont-like-going-places.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/the-manor-dont-like-going-places.markdown",
-		"oF": 0
-		},
-	"\/_projects\/the-manor-sex-drugs-and-on-the-dole.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/the-manor-sex-drugs-and-on-the-dole.markdown",
-		"oF": 0
-		},
-	"\/_projects\/tom-chaplain-hardened-heart.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/tom-chaplain-hardened-heart.markdown",
-		"oF": 0
-		},
-	"\/_projects\/wretch-32-antwi.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/wretch-32-antwi.markdown",
+		"oAP": "\/_releases\/do-it-for-the-lykez.markdown",
 		"oF": 0
 		},
 	"\/_releases\/feel-my-love-ft-byfyn.markdown": {
@@ -506,6 +398,16 @@
 		"oA": 2,
 		"oAP": "\/_site\/all\/index.html",
 		"oF": 0
+		},
+	"\/_site\/assets\/css\/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/css\/app-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/_site\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -720,49 +622,16 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/assets\/scss\/app.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/css\/app.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_site\/assets\/scss\/hamburgers\/hamburgers.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_site\/assets\/scss\/css\/hamburgers.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_site\/assets\/scss\/scroll\/aos.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_site\/assets\/scss\/css\/aos.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/_site\/contact\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/contact\/index.html",
+		"oF": 0
+		},
+	"\/_site\/feed.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/feed.xml",
 		"oF": 0
 		},
 	"\/_site\/humans.txt": {
@@ -889,6 +758,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/production\/talkin-the-hardest\/index.html",
+		"oF": 0
+		},
+	"\/_site\/releases\/callum-scotts\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/releases\/callum-scotts\/index.html",
+		"oF": 0
+		},
+	"\/_site\/releases\/do-it-for-the-lykez\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/releases\/do-it-for-the-lykez\/index.html",
 		"oF": 0
 		},
 	"\/_site\/releases\/feel-my-love-ft-byfyn\/index.html": {
@@ -1067,6 +948,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/uploads\/callum-scott.jpg": {
+		"ft": 16384,
+		"iS": 157362,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/callum-scott.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/uploads\/carry-on.jpg": {
 		"ft": 16384,
 		"iS": 46332,
@@ -1082,6 +973,16 @@
 		"iS": 226291,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/chat-2-your-man.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/do-it-for-the-lykez.jpg": {
+		"ft": 16384,
+		"iS": 216953,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/do-it-for-the-lykez.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1367,6 +1268,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/callum-scott.jpg": {
+		"ft": 16384,
+		"iS": 157362,
+		"oA": 0,
+		"oAP": "\/_uploads\/callum-scott.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/carry-on.jpg": {
 		"ft": 16384,
 		"iS": 130742,
@@ -1385,6 +1296,16 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/_uploads\/do-it-for-the-lykez.jpg": {
+		"ft": 16384,
+		"iS": 216953,
+		"oA": 0,
+		"oAP": "\/_uploads\/do-it-for-the-lykez.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/feel-my-love.jpg": {

@@ -56,6 +56,7 @@ exclude:
 - node_modules
 - ".gitignore"
 - bower_components
+- assets/scss
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
