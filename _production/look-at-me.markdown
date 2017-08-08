@@ -1,6 +1,7 @@
 ---
 title: Look at Me
 date: 2013-06-10 17:23:00 Z
+position: 3
 image: "/uploads/look-at-me.jpg"
 artist: Arrow Benjamin ft. Taz
 format: Playstation Game

@@ -1,6 +1,7 @@
 ---
 title: Playground
 date: 2013-06-10 17:23:00 Z
+position: 4
 image: "/uploads/playground.jpg"
 artist: Lethal Bizzle ft. Shakka
 format: Single

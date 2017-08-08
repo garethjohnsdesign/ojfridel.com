@@ -1,6 +1,7 @@
 ---
 title: Chat 2 Your Man
 date: 2015-09-22 17:23:00 Z
+position: 0
 image: "/uploads/chat-2-your-man.jpg"
 artist: Lady Lykez
 format: Single

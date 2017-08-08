@@ -1,6 +1,7 @@
 ---
 title: Fight For Love
 date: 2013-06-10 17:23:00 Z
+position: 2
 image: "/uploads/fight-for-love.jpg"
 artist: Kwabs
 format: Single
