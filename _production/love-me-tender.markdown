@@ -1,7 +1,7 @@
 ---
 title: Love Me Tender
 date: 2014-09-22 17:23:00 Z
-position: 6
+position: 5
 image: "/uploads/love-me-tender.jpg"
 artist: Mica Paris
 format: Musical
