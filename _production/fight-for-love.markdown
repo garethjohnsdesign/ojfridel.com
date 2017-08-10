@@ -1,6 +1,7 @@
 ---
 title: Fight For Love
 date: 2013-06-10 17:23:00 Z
+position: 2
 image: "/uploads/fight-for-love.jpg"
 artist: Kwabs
 format: Single
@@ -9,4 +10,6 @@ project: SBTV Live
 credit: Head Engineers
 ---
 
-https://www.youtube.com/watch?v=6PCyKwSFrwg
+<div class="responsive-embed  widescreen">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/6PCyKwSFrwg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
