@@ -129,6 +129,12 @@
 		"oAP": "\/_layouts\/holding.html",
 		"oF": 0
 		},
+	"\/_layouts\/home.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/home.html",
+		"oF": 0
+		},
 	"\/_layouts\/images.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -217,6 +223,54 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2017-04-19-venenatis-tortor.markdown",
+		"oF": 0
+		},
+	"\/_production\/bring-back-the-love.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_production\/bring-back-the-love.markdown",
+		"oF": 0
+		},
+	"\/_production\/carry-on.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_production\/carry-on.markdown",
+		"oF": 0
+		},
+	"\/_production\/chat-2-your-man.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_production\/chat-2-your-man.markdown",
+		"oF": 0
+		},
+	"\/_production\/fight-for-love.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_production\/fight-for-love.markdown",
+		"oF": 0
+		},
+	"\/_production\/look-at-me.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_production\/look-at-me.markdown",
+		"oF": 0
+		},
+	"\/_production\/love-me-tender.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_production\/love-me-tender.markdown",
+		"oF": 0
+		},
+	"\/_production\/playground.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_production\/playground.markdown",
+		"oF": 0
+		},
+	"\/_production\/talkin-the-hardest.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_production\/talkin-the-hardest.markdown",
 		"oF": 0
 		},
 	"\/_releases\/callum-scotts.markdown": {
@@ -351,10 +405,22 @@
 		"oAP": "\/_site\/contact\/index.html",
 		"oF": 0
 		},
+	"\/_site\/feed.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/feed.xml",
+		"oF": 0
+		},
 	"\/_site\/images\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/images\/index.html",
+		"oF": 0
+		},
+	"\/_site\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
 	"\/_site\/journal\/fermentum-ipsum-amet\/index.html": {

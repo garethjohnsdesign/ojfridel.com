@@ -2,9 +2,6 @@
 title: OJ & Fridel
 timezone: UTC
 collections:
-  journal:
-    title: Journal
-    output: true
   posts:
     title: Posts
     output: true
