@@ -285,10 +285,22 @@
 		"oAP": "\/_releases\/do-it-for-the-lykez.markdown",
 		"oF": 0
 		},
+	"\/_releases\/feel-my-love-ft-byfyn-david-agrella-remix.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/feel-my-love-ft-byfyn-david-agrella-remix.markdown",
+		"oF": 0
+		},
 	"\/_releases\/feel-my-love-ft-byfyn.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_releases\/feel-my-love-ft-byfyn.markdown",
+		"oF": 0
+		},
+	"\/_releases\/if-i-wasnt-a-woman.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/if-i-wasnt-a-woman.markdown",
 		"oF": 0
 		},
 	"\/_releases\/paper-heart.markdown": {
@@ -778,10 +790,22 @@
 		"oAP": "\/_site\/releases\/do-it-for-the-lykez\/index.html",
 		"oF": 0
 		},
+	"\/_site\/releases\/feel-my-love-ft-byfyn-david-agrella-remix\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/releases\/feel-my-love-ft-byfyn-david-agrella-remix\/index.html",
+		"oF": 0
+		},
 	"\/_site\/releases\/feel-my-love-ft-byfyn\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/releases\/feel-my-love-ft-byfyn\/index.html",
+		"oF": 0
+		},
+	"\/_site\/releases\/if-i-wasnt-a-woman\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/releases\/if-i-wasnt-a-woman\/index.html",
 		"oF": 0
 		},
 	"\/_site\/releases\/index.html": {
@@ -994,6 +1018,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/uploads\/feel-my-love-david-agrella.jpg": {
+		"ft": 16384,
+		"iS": 173119,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/feel-my-love-david-agrella.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/uploads\/feel-my-love.jpg": {
 		"ft": 16384,
 		"iS": 552793,
@@ -1043,6 +1077,16 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/_site\/uploads\/if-i-wasnt-a-woman.jpg": {
+		"ft": 16384,
+		"iS": 152829,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/if-i-wasnt-a-woman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/_site\/uploads\/index-hero.jpg": {
 		"ft": 16384,
@@ -1314,6 +1358,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/feel-my-love-david-agrella.jpg": {
+		"ft": 16384,
+		"iS": 173119,
+		"oA": 0,
+		"oAP": "\/_uploads\/feel-my-love-david-agrella.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/feel-my-love.jpg": {
 		"ft": 16384,
 		"iS": 552793,
@@ -1363,6 +1417,16 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/_uploads\/if-i-wasnt-a-woman.jpg": {
+		"ft": 16384,
+		"iS": 152829,
+		"oA": 0,
+		"oAP": "\/_uploads\/if-i-wasnt-a-woman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/index-hero.jpg": {
 		"ft": 16384,
