@@ -298,7 +298,7 @@ h2:before {
 .project__hero-image {
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   height: 60vh;
   @include margin-three;
   color: $color--white;
