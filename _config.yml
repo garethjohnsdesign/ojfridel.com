@@ -27,17 +27,30 @@ defaults:
     path: ''
     type: production
   values:
-    layout: project
+    layout: 
+    artist: 
+    format: 
+    record-label: 
+    project: 
+    credit: 
 - scope:
     path: ''
     type: releases
   values:
     layout: project
+    format: 
+    artist: 
+    project: 
+    credit: 
+    record-label: 
 - scope:
     path: ''
     type: scoring-film
   values:
     layout: project
+    image: 
+    director: 
+    credit: 
 url: http://ojfridel.com
 description: London-based production duo
 permalink: pretty
