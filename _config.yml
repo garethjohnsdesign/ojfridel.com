@@ -36,10 +36,6 @@ defaults:
 - scope:
     path: ''
     type: scoring-film
-    date:
-    image:
-    director:
-    credit:
   values:
     layout: project
 url: http://ojfridel.com
