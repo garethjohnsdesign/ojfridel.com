@@ -27,21 +27,21 @@ defaults:
     path: ''
     type: production
   values:
-    layout:
-    artist:
-    format:
-    record-label:
+    layout: 
+    artist: 
+    format: 
+    record-label: 
     project: 
-    credit:
+    credit: 
 - scope:
     path: ''
     type: releases
   values:
     layout: project
-    format:
-    artist:
-    project:
-    credit:
+    format: 
+    artist: 
+    project: 
+    credit: 
     record-label: 
 - scope:
     path: ''
