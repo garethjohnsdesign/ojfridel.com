@@ -27,7 +27,9 @@ defaults:
     path: ''
     type: production
   values:
-    layout: 
+    layout: project
+    image: 
+    featured-image: 
     artist: 
     format: 
     record-label: 
@@ -38,6 +40,8 @@ defaults:
     type: releases
   values:
     layout: project
+    image: 
+    featured-image: 
     format: 
     artist: 
     project: 
@@ -49,6 +53,7 @@ defaults:
   values:
     layout: project
     image: 
+    featured-image: 
     director: 
     credit: 
 url: http://ojfridel.com

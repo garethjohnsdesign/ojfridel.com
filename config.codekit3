@@ -7,7 +7,7 @@
 		"uuidString": "57A32161-C0ED-409C-8BEE-A58E86D215AD"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/404.md": {
 		"cB": 0,
@@ -216,46 +216,11 @@
 		"oAP": "\/_layouts\/scoring-film.html",
 		"oF": 0
 		},
-	"\/_posts\/2016-09-22-ridiculus-sem.markdown": {
+	"\/_posts\/2018-01-10-feature-film.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_posts\/2016-09-22-ridiculus-sem.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-01-20-malesuada-tellus-purus-fringilla.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-01-20-malesuada-tellus-purus-fringilla.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-03-02-fermentum-ipsum-amet.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-03-02-fermentum-ipsum-amet.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-03-09-tristique-fringilla-sem.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-03-09-tristique-fringilla-sem.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-04-19-saari-win-european-award.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-04-19-saari-win-european-award.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-04-19-venenatis-tortor.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-04-19-venenatis-tortor.markdown",
+		"oAP": "\/_posts\/2018-01-10-feature-film.markdown",
 		"oF": 0
 		},
 	"\/_production\/bring-back-the-love.markdown": {
@@ -375,6 +340,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_scoring-film\/four-kilometers.markdown",
+		"oF": 0
+		},
+	"\/_scoring-film\/gutmenschen.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_scoring-film\/gutmenschen.markdown",
 		"oF": 0
 		},
 	"\/_scoring-film\/harmonia.markdown": {
@@ -743,11 +715,11 @@
 		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
-	"\/_site\/journal\/fermentum-ipsum-amet\/index.html": {
+	"\/_site\/journal\/feature-film\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/journal\/fermentum-ipsum-amet\/index.html",
+		"oAP": "\/_site\/journal\/feature-film\/index.html",
 		"oF": 0
 		},
 	"\/_site\/journal\/index.html": {
@@ -755,41 +727,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/journal\/index.html",
-		"oF": 0
-		},
-	"\/_site\/journal\/malesuada-tellus-purus-fringilla\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/journal\/malesuada-tellus-purus-fringilla\/index.html",
-		"oF": 0
-		},
-	"\/_site\/journal\/ridiculus-sem\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/journal\/ridiculus-sem\/index.html",
-		"oF": 0
-		},
-	"\/_site\/journal\/saari-win-european-award\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/journal\/saari-win-european-award\/index.html",
-		"oF": 0
-		},
-	"\/_site\/journal\/tristique-fringilla-sem\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/journal\/tristique-fringilla-sem\/index.html",
-		"oF": 0
-		},
-	"\/_site\/journal\/venenatis-tortor\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/journal\/venenatis-tortor\/index.html",
 		"oF": 0
 		},
 	"\/_site\/music\/index.html": {
@@ -946,6 +883,13 @@
 		"oAP": "\/_site\/scoring-film\/four-kilometers\/index.html",
 		"oF": 0
 		},
+	"\/_site\/scoring-film\/gutmenschen\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/scoring-film\/gutmenschen\/index.html",
+		"oF": 0
+		},
 	"\/_site\/scoring-film\/harmonia\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1047,6 +991,7 @@
 	"\/_site\/uploads\/4-kilometers.jpg": {
 		"ft": 16384,
 		"iS": 239547,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/4-kilometers.jpg",
 		"oF": 0,
@@ -1057,6 +1002,7 @@
 	"\/_site\/uploads\/about.jpg": {
 		"ft": 16384,
 		"iS": 149800,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/about.jpg",
 		"oF": 0,
@@ -1067,6 +1013,7 @@
 	"\/_site\/uploads\/aidas-secrets.jpg": {
 		"ft": 16384,
 		"iS": 262553,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/aidas-secrets.jpg",
 		"oF": 0,
@@ -1077,6 +1024,7 @@
 	"\/_site\/uploads\/album-61.jpg": {
 		"ft": 16384,
 		"iS": 186858,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/album-61.jpg",
 		"oF": 0,
@@ -1087,6 +1035,7 @@
 	"\/_site\/uploads\/bring-back-the-love.jpg": {
 		"ft": 16384,
 		"iS": 184415,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/bring-back-the-love.jpg",
 		"oF": 0,
@@ -1097,6 +1046,7 @@
 	"\/_site\/uploads\/callum-scott.jpg": {
 		"ft": 16384,
 		"iS": 157362,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/callum-scott.jpg",
 		"oF": 0,
@@ -1107,6 +1057,7 @@
 	"\/_site\/uploads\/carry-on.jpg": {
 		"ft": 16384,
 		"iS": 46332,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/carry-on.jpg",
 		"oF": 0,
@@ -1117,6 +1068,7 @@
 	"\/_site\/uploads\/chat-2-your-man.jpg": {
 		"ft": 16384,
 		"iS": 226291,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/chat-2-your-man.jpg",
 		"oF": 0,
@@ -1127,6 +1079,7 @@
 	"\/_site\/uploads\/do-it-for-the-lykez.jpg": {
 		"ft": 16384,
 		"iS": 216953,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/do-it-for-the-lykez.jpg",
 		"oF": 0,
@@ -1137,6 +1090,7 @@
 	"\/_site\/uploads\/feel-my-love-david-agrella.jpg": {
 		"ft": 16384,
 		"iS": 173119,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/feel-my-love-david-agrella.jpg",
 		"oF": 0,
@@ -1147,6 +1101,7 @@
 	"\/_site\/uploads\/feel-my-love.jpg": {
 		"ft": 16384,
 		"iS": 552793,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/feel-my-love.jpg",
 		"oF": 0,
@@ -1157,8 +1112,31 @@
 	"\/_site\/uploads\/fight-for-love.jpg": {
 		"ft": 16384,
 		"iS": 67253,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/fight-for-love.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gutmenschen-featured.jpg": {
+		"ft": 16384,
+		"iS": 204032,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gutmenschen-featured.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gutmenschen.jpg": {
+		"ft": 16384,
+		"iS": 194081,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gutmenschen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1167,6 +1145,7 @@
 	"\/_site\/uploads\/harmonia.jpg": {
 		"ft": 16384,
 		"iS": 231719,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/harmonia.jpg",
 		"oF": 0,
@@ -1177,6 +1156,7 @@
 	"\/_site\/uploads\/i-will-be.jpg": {
 		"ft": 16384,
 		"iS": 50085,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/i-will-be.jpg",
 		"oF": 0,
@@ -1197,6 +1177,7 @@
 	"\/_site\/uploads\/if-i-wasnt-a-woman.jpg": {
 		"ft": 16384,
 		"iS": 152829,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/if-i-wasnt-a-woman.jpg",
 		"oF": 0,
@@ -1207,6 +1188,7 @@
 	"\/_site\/uploads\/index-hero.jpg": {
 		"ft": 16384,
 		"iS": 158888,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/index-hero.jpg",
 		"oF": 0,
@@ -1217,6 +1199,7 @@
 	"\/_site\/uploads\/kickoff.jpg": {
 		"ft": 16384,
 		"iS": 227756,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/kickoff.jpg",
 		"oF": 0,
@@ -1227,6 +1210,7 @@
 	"\/_site\/uploads\/king-for-a-term.jpg": {
 		"ft": 16384,
 		"iS": 450687,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/king-for-a-term.jpg",
 		"oF": 0,
@@ -1237,6 +1221,7 @@
 	"\/_site\/uploads\/look-at-me.jpg": {
 		"ft": 16384,
 		"iS": 86144,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/look-at-me.jpg",
 		"oF": 0,
@@ -1247,6 +1232,7 @@
 	"\/_site\/uploads\/lost-and-found.jpg": {
 		"ft": 16384,
 		"iS": 165636,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/lost-and-found.jpg",
 		"oF": 0,
@@ -1257,6 +1243,7 @@
 	"\/_site\/uploads\/love-and-hate.jpg": {
 		"ft": 16384,
 		"iS": 22147,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/love-and-hate.jpg",
 		"oF": 0,
@@ -1267,6 +1254,7 @@
 	"\/_site\/uploads\/love-me-tender.jpg": {
 		"ft": 16384,
 		"iS": 176306,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/love-me-tender.jpg",
 		"oF": 0,
@@ -1277,6 +1265,7 @@
 	"\/_site\/uploads\/opposite.jpg": {
 		"ft": 16384,
 		"iS": 680420,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/opposite.jpg",
 		"oF": 0,
@@ -1287,6 +1276,7 @@
 	"\/_site\/uploads\/paper-heart.jpg": {
 		"ft": 16384,
 		"iS": 177748,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/paper-heart.jpg",
 		"oF": 0,
@@ -1297,6 +1287,7 @@
 	"\/_site\/uploads\/playground.jpg": {
 		"ft": 16384,
 		"iS": 106719,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/playground.jpg",
 		"oF": 0,
@@ -1307,8 +1298,20 @@
 	"\/_site\/uploads\/point-of-no-return.jpg": {
 		"ft": 16384,
 		"iS": 148493,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/point-of-no-return.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/roma-armee-featured.jpg": {
+		"ft": 16384,
+		"iS": 251785,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/roma-armee-featured.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1317,6 +1320,7 @@
 	"\/_site\/uploads\/roma-armee.jpg": {
 		"ft": 16384,
 		"iS": 259601,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/roma-armee.jpg",
 		"oF": 0,
@@ -1327,6 +1331,7 @@
 	"\/_site\/uploads\/ruth.jpg": {
 		"ft": 16384,
 		"iS": 459899,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/ruth.jpg",
 		"oF": 0,
@@ -1337,6 +1342,7 @@
 	"\/_site\/uploads\/shh-bang.jpg": {
 		"ft": 16384,
 		"iS": 79417,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/shh-bang.jpg",
 		"oF": 0,
@@ -1347,6 +1353,7 @@
 	"\/_site\/uploads\/talkin-the-hardest.jpg": {
 		"ft": 16384,
 		"iS": 104410,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/talkin-the-hardest.jpg",
 		"oF": 0,
@@ -1357,6 +1364,7 @@
 	"\/_site\/uploads\/the-ultra-zionists.jpg": {
 		"ft": 16384,
 		"iS": 430549,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/the-ultra-zionists.jpg",
 		"oF": 0,
@@ -1367,6 +1375,7 @@
 	"\/_site\/uploads\/viktor.jpg": {
 		"ft": 16384,
 		"iS": 529952,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/viktor.jpg",
 		"oF": 0,
@@ -1377,6 +1386,7 @@
 	"\/_site\/uploads\/winterreise.jpg": {
 		"ft": 16384,
 		"iS": 360367,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/winterreise.jpg",
 		"oF": 0,
@@ -1387,6 +1397,7 @@
 	"\/_uploads\/4-kilometers.jpg": {
 		"ft": 16384,
 		"iS": 239547,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/4-kilometers.jpg",
 		"oF": 0,
@@ -1397,6 +1408,7 @@
 	"\/_uploads\/about.jpg": {
 		"ft": 16384,
 		"iS": 149800,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/about.jpg",
 		"oF": 0,
@@ -1407,6 +1419,7 @@
 	"\/_uploads\/aidas-secrets.jpg": {
 		"ft": 16384,
 		"iS": 262553,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/aidas-secrets.jpg",
 		"oF": 0,
@@ -1417,6 +1430,7 @@
 	"\/_uploads\/album-61.jpg": {
 		"ft": 16384,
 		"iS": 186858,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/album-61.jpg",
 		"oF": 0,
@@ -1427,6 +1441,7 @@
 	"\/_uploads\/bring-back-the-love.jpg": {
 		"ft": 16384,
 		"iS": 184415,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/bring-back-the-love.jpg",
 		"oF": 0,
@@ -1437,6 +1452,7 @@
 	"\/_uploads\/callum-scott.jpg": {
 		"ft": 16384,
 		"iS": 157362,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/callum-scott.jpg",
 		"oF": 0,
@@ -1447,6 +1463,7 @@
 	"\/_uploads\/carry-on.jpg": {
 		"ft": 16384,
 		"iS": 130742,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/carry-on.jpg",
 		"oF": 0,
@@ -1457,6 +1474,7 @@
 	"\/_uploads\/chat-2-your-man.jpg": {
 		"ft": 16384,
 		"iS": 100319,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/chat-2-your-man.jpg",
 		"oF": 0,
@@ -1467,6 +1485,7 @@
 	"\/_uploads\/do-it-for-the-lykez.jpg": {
 		"ft": 16384,
 		"iS": 216953,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/do-it-for-the-lykez.jpg",
 		"oF": 0,
@@ -1477,6 +1496,7 @@
 	"\/_uploads\/feel-my-love-david-agrella.jpg": {
 		"ft": 16384,
 		"iS": 173119,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/feel-my-love-david-agrella.jpg",
 		"oF": 0,
@@ -1487,6 +1507,7 @@
 	"\/_uploads\/feel-my-love.jpg": {
 		"ft": 16384,
 		"iS": 552793,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/feel-my-love.jpg",
 		"oF": 0,
@@ -1497,6 +1518,7 @@
 	"\/_uploads\/fight-for-love.jpg": {
 		"ft": 16384,
 		"iS": 67253,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/fight-for-love.jpg",
 		"oF": 0,
@@ -1504,9 +1526,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/gutmenschen-featured.jpg": {
+		"ft": 16384,
+		"iS": 204032,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/gutmenschen-featured.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/gutmenschen.jpg": {
+		"ft": 16384,
+		"iS": 214602,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/gutmenschen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/_uploads\/harmonia.jpg": {
 		"ft": 16384,
 		"iS": 231719,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/harmonia.jpg",
 		"oF": 0,
@@ -1517,6 +1562,7 @@
 	"\/_uploads\/i-will-be.jpg": {
 		"ft": 16384,
 		"iS": 50085,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/i-will-be.jpg",
 		"oF": 0,
@@ -1537,6 +1583,7 @@
 	"\/_uploads\/if-i-wasnt-a-woman.jpg": {
 		"ft": 16384,
 		"iS": 152829,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/if-i-wasnt-a-woman.jpg",
 		"oF": 0,
@@ -1547,6 +1594,7 @@
 	"\/_uploads\/index-hero.jpg": {
 		"ft": 16384,
 		"iS": 158888,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/index-hero.jpg",
 		"oF": 0,
@@ -1557,6 +1605,7 @@
 	"\/_uploads\/kickoff.jpg": {
 		"ft": 16384,
 		"iS": 227756,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/kickoff.jpg",
 		"oF": 0,
@@ -1567,6 +1616,7 @@
 	"\/_uploads\/king-for-a-term.jpg": {
 		"ft": 16384,
 		"iS": 450687,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/king-for-a-term.jpg",
 		"oF": 0,
@@ -1577,6 +1627,7 @@
 	"\/_uploads\/look-at-me.jpg": {
 		"ft": 16384,
 		"iS": 409350,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/look-at-me.jpg",
 		"oF": 0,
@@ -1587,6 +1638,7 @@
 	"\/_uploads\/lost-and-found.jpg": {
 		"ft": 16384,
 		"iS": 165636,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/lost-and-found.jpg",
 		"oF": 0,
@@ -1597,6 +1649,7 @@
 	"\/_uploads\/love-and-hate.jpg": {
 		"ft": 16384,
 		"iS": 22147,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/love-and-hate.jpg",
 		"oF": 0,
@@ -1607,6 +1660,7 @@
 	"\/_uploads\/love-me-tender.jpg": {
 		"ft": 16384,
 		"iS": 176306,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/love-me-tender.jpg",
 		"oF": 0,
@@ -1617,6 +1671,7 @@
 	"\/_uploads\/opposite.jpg": {
 		"ft": 16384,
 		"iS": 680420,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/opposite.jpg",
 		"oF": 0,
@@ -1627,6 +1682,7 @@
 	"\/_uploads\/paper-heart.jpg": {
 		"ft": 16384,
 		"iS": 177748,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/paper-heart.jpg",
 		"oF": 0,
@@ -1637,6 +1693,7 @@
 	"\/_uploads\/playground.jpg": {
 		"ft": 16384,
 		"iS": 106719,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/playground.jpg",
 		"oF": 0,
@@ -1647,8 +1704,20 @@
 	"\/_uploads\/point-of-no-return.jpg": {
 		"ft": 16384,
 		"iS": 148493,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/point-of-no-return.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/roma-armee-featured.jpg": {
+		"ft": 16384,
+		"iS": 251785,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/roma-armee-featured.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1657,6 +1726,7 @@
 	"\/_uploads\/roma-armee.jpg": {
 		"ft": 16384,
 		"iS": 259601,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/roma-armee.jpg",
 		"oF": 0,
@@ -1667,6 +1737,7 @@
 	"\/_uploads\/ruth.jpg": {
 		"ft": 16384,
 		"iS": 459899,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/ruth.jpg",
 		"oF": 0,
@@ -1677,6 +1748,7 @@
 	"\/_uploads\/shh-bang.jpg": {
 		"ft": 16384,
 		"iS": 79417,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/shh-bang.jpg",
 		"oF": 0,
@@ -1687,6 +1759,7 @@
 	"\/_uploads\/talkin-the-hardest.jpg": {
 		"ft": 16384,
 		"iS": 104410,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/talkin-the-hardest.jpg",
 		"oF": 0,
@@ -1697,6 +1770,7 @@
 	"\/_uploads\/the-ultra-zionists.jpg": {
 		"ft": 16384,
 		"iS": 430549,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/the-ultra-zionists.jpg",
 		"oF": 0,
@@ -1707,6 +1781,7 @@
 	"\/_uploads\/viktor.jpg": {
 		"ft": 16384,
 		"iS": 529952,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/viktor.jpg",
 		"oF": 0,
@@ -1717,6 +1792,7 @@
 	"\/_uploads\/winterreise.jpg": {
 		"ft": 16384,
 		"iS": 360367,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/winterreise.jpg",
 		"oF": 0,
@@ -3550,6 +3626,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_vertical-rhythm.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_contain.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_contain.scss",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -6272,19 +6361,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bower_components\/foundation-sites\/scss\/prototype\/_typescale.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_typescale.scss",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/bower_components\/foundation-sites\/scss\/settings\/_settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7028,6 +7104,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/jquery\/src\/core\/camelCase.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/core\/camelCase.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/bower_components\/jquery\/src\/core\/DOMEval.js": {
 		"ft": 64,
 		"ma": 0,
@@ -7114,6 +7200,16 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/core\/support.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/core\/toType.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/core\/toType.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -7228,12 +7324,12 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/bower_components\/jquery\/src\/css\/var\/rmargin.js": {
+	"\/bower_components\/jquery\/src\/css\/var\/rboxStyle.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/rmargin.js",
+		"oAP": "\/bower_components\/jquery\/src\/css\/var\/rboxStyle.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -7774,6 +7870,26 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/var\/indexOf.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/var\/isFunction.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/var\/isFunction.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/var\/isWindow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/var\/isWindow.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -8543,13 +8659,26 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/bower_components\/what-input\/bower.json": {
-		"ft": 524288,
+	"\/bower_components\/what-input\/.editorconfig": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oAP": "\/bower_components\/what-input\/.editorconfig",
+		"oF": 0
+		},
+	"\/bower_components\/what-input\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/what-input\/.gitignore",
+		"oF": 0
+		},
+	"\/bower_components\/what-input\/.nvmrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/what-input\/.nvmrc",
+		"oF": 0
 		},
 	"\/bower_components\/what-input\/dist\/lte-IE8.js": {
 		"ft": 64,
@@ -8577,33 +8706,6 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/dist\/what-input.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/what-input\/docs\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/docs\/index.html",
-		"oF": 0
-		},
-	"\/bower_components\/what-input\/docs\/scripts\/lte-IE8.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/docs\/scripts\/lte-IE8.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/what-input\/docs\/scripts\/what-input.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/docs\/scripts\/what-input.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -8651,35 +8753,117 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bower_components\/what-input\/src\/polyfills\/ie8\/EventListener.js": {
+	"\/bower_components\/what-input\/src\/images\/select-arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/what-input\/src\/images\/select-arrow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/bower_components\/what-input\/src\/markup\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/what-input\/src\/markup\/index.html",
+		"oF": 0
+		},
+	"\/bower_components\/what-input\/src\/scripts\/polyfills\/ie8\/EventListener.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/src\/polyfills\/ie8\/EventListener.js",
+		"oAP": "\/bower_components\/what-input\/src\/scripts\/polyfills\/ie8\/EventListener.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/bower_components\/what-input\/src\/polyfills\/ie8\/indexOf.js": {
+	"\/bower_components\/what-input\/src\/scripts\/polyfills\/ie8\/indexOf.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/src\/polyfills\/ie8\/indexOf.js",
+		"oAP": "\/bower_components\/what-input\/src\/scripts\/polyfills\/ie8\/indexOf.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/bower_components\/what-input\/src\/what-input.js": {
+	"\/bower_components\/what-input\/src\/scripts\/what-input.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/src\/what-input.js",
+		"oAP": "\/bower_components\/what-input\/src\/scripts\/what-input.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/bower_components\/what-input\/src\/styles\/_html.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/what-input\/src\/styles\/_html.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/what-input\/src\/styles\/_layout.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/what-input\/src\/styles\/_layout.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/what-input\/src\/styles\/_mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/what-input\/src\/styles\/_mixins.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/what-input\/src\/styles\/_variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/what-input\/src\/styles\/_variables.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/what-input\/src\/styles\/index.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/what-input\/src\/styles\/index.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/bower_components\/what-input\/yarn.lock": {
 		"cB": 0,
@@ -8987,7 +9171,8 @@
 	"creationDate": 501170803,
 	"displayValue": "OJ + Fridel",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "\/assets\/favicons\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -8995,6 +9180,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -9558,6 +9744,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -10785,6 +10975,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

@@ -2,6 +2,7 @@
 title: Roma Armee
 date: 2017-09-22 17:23:00 Z
 image: "/uploads/roma-armee.jpg"
+featured-image: "/uploads/roma-armee-featured.jpg"
 director: Yael Ronen
 credit: Score
 ---

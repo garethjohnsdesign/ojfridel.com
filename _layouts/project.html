@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Hero Image -->
-<div class="project__hero-image" style="background-image: url({{page.image}})">
+<div class="project__hero-image" style="background-image: url({% if page.featured-image %}{{page.featured-image}}{% else %}{{page.image}}{% endif %})">
   <div class="project__hero-image__overlay">
   <div class="grid-x align-middle align-center" style="height: 100%;">
     <div class="small-10 cell text-center" data-aos="fade-in">

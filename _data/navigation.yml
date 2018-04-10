@@ -10,6 +10,12 @@
     - title: All
       url: /all/
 
+- title: Journal
+  url: /journal/
+
+- title: Images
+  url: /images/
+  
 - title: About
   url: /about/
   

@@ -32,3 +32,7 @@ $(function() {
 $(function() {
 window.addEventListener('load', AOS.refresh);
 });
+
+
+// 2. Animate on Scroll
+// --------------------
