@@ -1,6 +1,6 @@
 ---
 title: About
-position: 6
+position: 7
 image: "/uploads/about.jpg"
 layout: about
 ---
