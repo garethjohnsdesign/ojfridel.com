@@ -12,3 +12,5 @@ Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tel
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. 
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas faucibus mollis interdum.
+
+![roma-armee-featured.jpg](/uploads/roma-armee-featured.jpg)
