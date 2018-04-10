@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2017-07-04 16:35:00 Z
-position: 8
+position: 7
 layout: contact
 general: hello@ojfridel.com
 press-inquiries: press@ojfridel.com
