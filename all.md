@@ -1,6 +1,6 @@
 ---
 title: All
-position: 10
+position: 12
 layout: all
 ---
 

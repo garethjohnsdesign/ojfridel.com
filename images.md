@@ -1,6 +1,6 @@
 ---
 title: Images
-position: 6
+position: 9
 layout: images
 ---
 
