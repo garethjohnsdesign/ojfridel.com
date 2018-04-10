@@ -1,6 +1,6 @@
 ---
 title: Journal
-position: 11
+position: 6
 layout: journal
 ---
 
