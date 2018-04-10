@@ -1,5 +1,6 @@
 ---
 title: OJ & Fridel
+position: 0
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/index-hero.jpg"
 about-text: With 15 years of experience OJ & Fridel have written, produced and engineered
