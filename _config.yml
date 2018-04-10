@@ -36,12 +36,11 @@ defaults:
 - scope:
     path: ''
     type: scoring-film
-    date:
+  values:
+    layout: project
     image:
     director:
     credit:
-  values:
-    layout: project
 url: http://ojfridel.com
 description: London-based production duo
 permalink: pretty
