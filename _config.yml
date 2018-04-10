@@ -38,9 +38,9 @@ defaults:
     type: scoring-film
   values:
     layout: project
-    image:
-    director:
-    credit:
+    image: 
+    director: 
+    credit: 
 url: http://ojfridel.com
 description: London-based production duo
 permalink: pretty
