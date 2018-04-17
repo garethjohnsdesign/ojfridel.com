@@ -56,12 +56,10 @@ defaults:
     featured-image: 
     director: 
     credit: 
-url: http://ojfridel.com
+url: https://www.ojfridel.com
 description: London-based production duo
 permalink: pretty
 exclude:
-- Gemfile
-- Gemfile.lock
 - bower.json
 - package.json
 - config.codekit3
