@@ -70,7 +70,7 @@ exclude:
 - ".gitignore"
 - bower_components
 - assets/scss
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
