@@ -2,7 +2,7 @@
 title: CellFish
 date: 2018-10-31 09:50:00 Z
 image: "/uploads/Cdllfish.jpg"
-featured-image: "/uploads/Cdllfish.jpg"
+featured-image: "/uploads/Cdllfish-40f910.jpg"
 director: Tammy Federman
 credit: Score
 ---
