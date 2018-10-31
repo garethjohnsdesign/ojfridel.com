@@ -1,8 +1,9 @@
 ---
-title: Toni Romiti
+title: Future Release
 date: 2018-10-31 21:12:00 Z
 image: "/uploads/TR-TOMBOY-EP-cover.jpg"
 featured-image: "/uploads/TR-TOMBOY-EP-cover.jpg"
+artist: Toni Romiti
 record-label: Sony RCA
 credit: Production/Writing Session
 ---
