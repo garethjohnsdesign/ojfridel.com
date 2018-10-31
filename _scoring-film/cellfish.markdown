@@ -4,7 +4,7 @@ date: 2018-10-31 09:50:00 Z
 image: "/uploads/Cdllfish-40f910.jpg"
 featured-image: "/uploads/Cdllfish.jpg"
 director: Tammy Federman
-credit: Score
+credit: 'Score/Composition '
 ---
 
 The life and work of artist Shelly Federman, told through thirty years of personal documentary materials. Similarly to the story of the Buddha, Shelly chooses to escape the comfort of her father’s fortress, in search for true meaning and creative expression. In her path, she is confronted with longing, suffering and the fleeting essence of life. 
