@@ -1,7 +1,7 @@
 ---
 title: OJ & Fridel Film Music Score Showreel
 date: 2019-07-29 14:36:00 Z
-image: "/uploads/OJ%20Fridel%20Cover.jpg"
+image: "/uploads/OJ%20Fridel%20Cover-2817f0.jpg"
 featured-image: "/uploads/OJ%20Fridel%20Cover.jpg"
 ---
 
