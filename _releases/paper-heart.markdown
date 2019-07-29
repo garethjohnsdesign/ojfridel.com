@@ -1,7 +1,7 @@
 ---
 title: Paper Heart
 date: 2017-07-04 17:23:00 Z
-position: 2
+position: 5
 image: "/uploads/paper-heart.jpg"
 format: Single
 artist: Grace Monroe
