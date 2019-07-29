@@ -1,6 +1,7 @@
 ---
 title: Do It for the Lykes
 date: 2018-01-01 17:23:00 Z
+position: 4
 image: "/uploads/do-it-for-the-lykez.jpg"
 format: Future Release
 artist: Lady Lykez
