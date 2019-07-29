@@ -2,7 +2,7 @@
 title: Edith EP
 date: 2019-07-29 09:15:00 Z
 image: "/uploads/edith-a085ff.png"
-featured-image: "/uploads/Edith%20main%20shot.jpg"
+featured-image: "/uploads/Edith%20main%20shot-981758.jpg"
 artist: Edith
 ---
 
