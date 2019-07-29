@@ -14,7 +14,5 @@ artist: RIAH ft. OJ & Fridel
 ### Press
 
 [About to Blow](http://www.abouttoblow.com/riah-knight-oj-fridel-share-will-roam/)
-
 [It's all Indie](http://www.itsallindie.com/2019/04/oj-fridel-work-with-riah-knight-on-i.html)
-
 [Celeb Mix](https://celebmix.com/exclusive-riah-knight-talks-i-will-roam-for-international-romani-day/)
