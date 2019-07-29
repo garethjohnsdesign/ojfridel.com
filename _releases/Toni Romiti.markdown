@@ -1,6 +1,7 @@
 ---
 title: Toni Romiti
 date: 2018-11-01 21:05:00 Z
+position: 6
 image: "/uploads/TR-TOMBOY-EP-cover.jpg"
 featured-image: "/uploads/TR-TOMBOY-EP-cover.jpg"
 artist: Toni Romiti
