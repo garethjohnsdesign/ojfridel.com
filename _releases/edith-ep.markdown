@@ -1,6 +1,6 @@
 ---
 title: EDITH EP
-date: 2017-09-04 17:23:00 Z
+date: 2019-07-29 17:23:00 Z
 position: 2
 image: "/uploads/edith-a085ff.png"
 featured-image: "/uploads/Edith%20main%20shot-981758.jpg"
