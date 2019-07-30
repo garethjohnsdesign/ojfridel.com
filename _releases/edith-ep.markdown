@@ -1,9 +1,11 @@
 ---
-title: Edith EP
-date: 2019-07-29 09:15:00 Z
+title: EDITH EP
+date: 2017-09-04 17:23:00 Z
+position: 2
 image: "/uploads/edith-a085ff.png"
 featured-image: "/uploads/Edith%20main%20shot-981758.jpg"
-artist: Edith
+format: EP
+artist: EDITH
 ---
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/582183480&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
