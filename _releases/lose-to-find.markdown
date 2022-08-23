@@ -1,6 +1,7 @@
 ---
 title: Lose to Find
 date: 2022-08-23 22:44:00 Z
+position: 0
 image: "/uploads/George%20Shelly.jpeg"
 featured-image: "/uploads/George%20Shelly.jpeg"
 artist: George Shelley
