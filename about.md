@@ -1,7 +1,7 @@
 ---
 title: About
 position: 8
-image: "/uploads/about.jpg"
+image: "/uploads/Yanivofer6%20copy.jpg"
 layout: about
 ---
 
