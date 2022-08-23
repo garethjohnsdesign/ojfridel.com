@@ -7,7 +7,10 @@ director: Daphna Attias @ Terry O'Donovon
 credit: Score + Composition
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wo2GI2EjlRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive-embed  widescreen">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Wo2GI2EjlRg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 [View website](https://danteordie.com/odds-on)
 
