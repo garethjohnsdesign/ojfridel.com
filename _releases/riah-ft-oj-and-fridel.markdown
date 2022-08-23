@@ -1,7 +1,7 @@
 ---
 title: RIAH ft. OJ & Fridel
 date: 2019-07-29 14:25:00 Z
-position: 7
+position: 8
 image: "/uploads/Mockup.jpeg"
 featured-image: "/uploads/IMG_3532.JPG"
 artist: RIAH ft. OJ & Fridel
