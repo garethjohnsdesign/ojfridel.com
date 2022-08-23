@@ -2,7 +2,7 @@
 title: OJ & Fridel
 position: 0
 image: "/assets/img/og-image.png"
-hero-image: "/uploads/0S0A46763%20copy.jpg"
+hero-image: "/uploads/0S0A46763%20copy-2d3727.jpg"
 about-text: With 15 years of experience OJ & Fridel have written, produced and engineered
   music internationally for both established and emerging artists and to accompany
   film, TV and theatre productions, amassing an impressive client list between them
