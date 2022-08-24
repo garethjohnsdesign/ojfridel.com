@@ -7,7 +7,8 @@ director: Daphna Attias @ Terry O'Donovon
 credit: Score + Composition
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C7HpdG6KTXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="responsive-embed  widescreen">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/C7HpdG6KTXk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 [View website](https://www.imdb.com/title/tt18378620/?ref_=nm_flmg_com_2)
