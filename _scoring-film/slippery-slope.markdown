@@ -8,7 +8,7 @@ credit: 'Composition '
 ---
 
 <div class="responsive-embed  widescreen">
-<iframe width="1280" height="720" src="https://youtu.be/iLYruCbdEJs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/iLYruCbdEJs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [View website](https://www.gorki.de/en/slippery-slope)
