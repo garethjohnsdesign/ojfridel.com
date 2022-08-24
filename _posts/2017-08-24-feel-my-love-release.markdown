@@ -1,6 +1,6 @@
 ---
 title: Feel My Love Release
-date: 2019-08-24 10:56:00 Z
+date: 2017-08-24 10:56:00 Z
 ---
 
 [Clash Magazine](http://www.clashmusic.com/news/track-of-the-day-258-oj-fridel)
