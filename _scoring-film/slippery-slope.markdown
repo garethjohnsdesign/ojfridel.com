@@ -1,8 +1,8 @@
 ---
 title: Slippery Slope
 date: 2022-08-24 10:42:00 Z
-image: "/uploads/Screenshot%202022-08-03%20at%2013.30.08.png"
-featured-image: "/uploads/Screenshot%202022-08-03%20at%2013.30.08.png"
+image: "/uploads/Screenshot%202022-08-03%20at%2013.30.08-712b7d.png"
+featured-image: "/uploads/Screenshot%202022-08-03%20at%2013.30.08-712b7d.png"
 director: Yael Ronen
 credit: 'Composition '
 ---
